@@ -27,6 +27,14 @@
 - <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/EULAeqcPTaxLkwpCGL1S6Y8BBsEY2QaZk6wkYKSDVYSNvA?e=1Nt8NS">Assignment 2</a>
 - <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/Ee_oweN8C_pFkUJkT-lVkSMBtBN7jyklqFk_pxn25JTeWA?e=7dMxkP">Assignment 3</a>
 
+#### SECP1513
+- <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/EcRLrvN-inlBm3or-Bxn3VoBmq9aEkU2i2zizlOtk7DpCQ?e=u8m4er">Mindmap Chapter 2,3 & 4</a>
+- <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/Ee5JF4nQ4gBIgRbbL0F8gWcBca1KGlR70mApgZH5HhZQ6Q?e=eFU6ee">Mindmap 5</a>
+- <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/EaSAe2QOWdJJj3k09Ix0mC0Ben3NNBKAA0WYKIXw6_t9gw?e=UpATzu">Mindmap 6</a>
+- <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/ER7fPK_v3RlPkBLflLuebeMBcnMCAzjT_zAVy_gLm7ViTw?e=YeAEG9">Mindmap 7</a>
+- <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/EfWD7XNxV3hHiDQvu8lo8L4Bbni0XazA02shwV8qCNDGiQ?e=O5iJ9x">Mindmap 8</a>
+- <a href="https://feldagov-my.sharepoint.com/:v:/g/personal/thaqif_aa_felda_net_my/EcFWWDl_CepGpUlaXsMZ3nwBKlxZtDQTGrfzkkksz56CLg?e=pjAHsj">Design Thinking Video Project</a>
+
 ### PROJECTS
 #### Design
 <table style="border-collapse: collapse;">
