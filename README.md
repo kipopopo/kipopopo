@@ -20,7 +20,14 @@
 #### Design
 ![figma](https://github.com/user-attachments/assets/a59155a8-7cb9-4f9c-b094-aa2f43e9b4af) </span> ![photoshop](https://github.com/user-attachments/assets/ae1bcc38-18ca-43d9-8f9a-cb462842a922) </span> ![illustrator](https://github.com/user-attachments/assets/2fffc87e-bec8-4b1e-ab6d-274941648ba6)
 </br></br>
-### 📝 PROJECTS
+
+### 📝 SUBJECTS I HAVE LEARNED
+#### SECI1013
+- <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/EcawBt8MKy5HtbMLBrOGcoEB7lTwDLANH4gSzGH_DF2fOw?e=D17OHm">Assignment 1</a>
+- <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/EULAeqcPTaxLkwpCGL1S6Y8BBsEY2QaZk6wkYKSDVYSNvA?e=1Nt8NS">Assignment 2</a>
+- <a href="https://feldagov-my.sharepoint.com/:b:/g/personal/thaqif_aa_felda_net_my/Ee_oweN8C_pFkUJkT-lVkSMBtBN7jyklqFk_pxn25JTeWA?e=7dMxkP">Assignment 3</a>
+
+### PROJECTS
 #### Design
 <table style="border-collapse: collapse;">
   <tr>
@@ -45,6 +52,9 @@
 <img src="https://github.com/user-attachments/assets/3436a6f2-3d27-43d0-ac38-f61ce4af79fc"/>
 My Portfolio using ReactJS
 </div>
+
+
+
 
 <!--
 **kipopopo/kipopopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
