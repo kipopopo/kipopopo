@@ -20,7 +20,8 @@
 #### Design
 ![figma](https://github.com/user-attachments/assets/a59155a8-7cb9-4f9c-b094-aa2f43e9b4af) </span> ![photoshop](https://github.com/user-attachments/assets/ae1bcc38-18ca-43d9-8f9a-cb462842a922) </span> ![illustrator](https://github.com/user-attachments/assets/2fffc87e-bec8-4b1e-ab6d-274941648ba6)
 </br></br>
-### 📝 PROJECTS (Only designs for now)
+### 📝 PROJECTS
+#### Design
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;"><img src="https://github.com/user-attachments/assets/fdc8f877-4e8c-4e86-8b39-c4b74cea892d"/></td>
@@ -38,7 +39,12 @@
     <td style="border: none;"><img src="https://github.com/user-attachments/assets/66999da0-8dd3-4ab9-90c9-f455e4d34ea0"/></td>
   </tr>
 </table>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kipopopo&theme=github_dark" alt="Thaqif's GitHub Stats"/>
+
+#### Website (Incomplete)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3436a6f2-3d27-43d0-ac38-f61ce4af79fc"/>
+My Portfolio using ReactJS
+</div>
 
 <!--
 **kipopopo/kipopopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
