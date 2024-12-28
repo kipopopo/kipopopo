@@ -2,6 +2,15 @@
 
 ### 💬 ABOUT ME
 **Dedicated and hard-working** student with a background in logistics and clerical roles. Proficient in web development, data analysis, and problem-solving. Completed several web developments projects and courses with high grades. Seeking to learn new things related to computing and web development for enhancing my skills and knowledge.
+</br>
+
+<div align="center">
+🌱 I’m currently learning LLM(AI) </br>
+- 💬 Ask me about anything only that I can give an answer. </br>
+- 📫 you can reach me at: </span> </br> 
+<a href="https://www.linkedin.com/in/thaqifaziz/"><img src="https://github.com/user-attachments/assets/354e6214-0a4c-4f88-ade4-3c4b09cae976" width="32"/></a><a href="https://x.com/_thqf"><img src="https://github.com/user-attachments/assets/565bfa39-4b2e-4d34-8675-85fb136578f8"/></a>
+</div>
+
 </br></br>
 
 ### 🧠 SKILLS
@@ -29,10 +38,8 @@
     <td style="border: none;"><img src="https://github.com/user-attachments/assets/66999da0-8dd3-4ab9-90c9-f455e4d34ea0"/></td>
   </tr>
 </table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kipopopo&theme=github_dark" alt="Thaqif's GitHub Stats"/>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kipopopo&theme=github_dark" alt="Thaqif's GitHub Stats"/>
-</div>
 <!--
 **kipopopo/kipopopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
