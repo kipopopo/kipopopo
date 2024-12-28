@@ -6,8 +6,8 @@
 
 <div align="center">
 🌱 I’m currently learning LLM </br>
-- 💬 Ask me about anything only that I can give an answer. </br>
-- 📫 you can reach me at: </span> </br> 
+💬 Ask me about anything only that I can give an answer. </br>
+📫 you can reach me at: </span> </br> 
 <a href="https://www.linkedin.com/in/thaqifaziz/"><img src="https://github.com/user-attachments/assets/354e6214-0a4c-4f88-ade4-3c4b09cae976" width="32"/></a><a href="https://x.com/_thqf"><img src="https://github.com/user-attachments/assets/565bfa39-4b2e-4d34-8675-85fb136578f8"/></a>
 </div>
 
