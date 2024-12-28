@@ -1,4 +1,14 @@
-## Hi there 👋
+## MUHAMMAD THAQIF BIN ABDUL AZIZ
+
+### 💬 ABOUT ME
+Dedicated and hard-working student with a background in logistics and clerical roles. Proficient in web development, data analysis, and problem-solving. Completed several web developments projects and courses with high grades. Seeking to learn new things related to computing and web development for enhancing my skills and knowledge.
+
+### 🧠 SKILLS
+#### Web Development
+![html-5](https://github.com/user-attachments/assets/cf9742f0-5641-4fc8-9e62-eac487fc2611)  </span> ![css3](https://github.com/user-attachments/assets/ce193597-f6d9-4231-b95f-d919d42c4798) </span> ![sass](https://github.com/user-attachments/assets/676b4d4d-b4d4-4363-8e0f-fea36fdf0582) </span> ![js](https://github.com/user-attachments/assets/98cbd2a0-2863-4987-9fcf-09b178ae9e90) </span> ![physics](https://github.com/user-attachments/assets/15b1a43b-5cc3-4cb5-bd13-da3498962d0f) </span> ![programing](https://github.com/user-attachments/assets/00057731-c682-494e-a0f9-710ac436c971)
+</br>
+#### Design
+![figma](https://github.com/user-attachments/assets/a59155a8-7cb9-4f9c-b094-aa2f43e9b4af) </span> ![photoshop](https://github.com/user-attachments/assets/ae1bcc38-18ca-43d9-8f9a-cb462842a922) </span> ![illustrator](https://github.com/user-attachments/assets/2fffc87e-bec8-4b1e-ab6d-274941648ba6)
 
 <!--
 **kipopopo/kipopopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
